@@ -1,13 +1,9 @@
 
 hi learning devops is very easy
 
-<<<<<<< HEAD
-hi we are commited with development team.....
-
 
 
 welcome to warangal....
 =======
 hi we are commited with development team....
 hello we are in banglore.....
->>>>>>> master
